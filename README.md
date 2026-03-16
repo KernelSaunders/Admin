@@ -2,6 +2,9 @@
 
 The solution to to finding a projects real traceability, supported by evidence and build for real use.
 
+The problem we solve:
+Products can come from every corner of world. Consumers may often be unaware truly where products are originated from. With so many product stages and complex production lines Sourcr aggregates the neccessary information to provide more informated decisions.
+
 ## Roles
 
 - Testing - Pritch
@@ -45,10 +48,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Contact Information
-Ben Pritchard bcp204@exeter.ac.uk
-Ben Worsley bw584@exeter.ac.uk
-Henry Alexander ha619@exeter.ac.uk
-Oliver Gregory og325@exeter.ac.uk
-William Wu qfw201@exeter.ac.uk
-Oliver Shotton os450@exeter.ac.uk
-Will Turner wtt201@exeter.ac.uk
+- Ben Pritchard bcp204@exeter.ac.uk
+- Ben Worsley bw584@exeter.ac.uk
+- Henry Alexander ha619@exeter.ac.uk
+- Oliver Gregory og325@exeter.ac.uk
+- William Wu qfw201@exeter.ac.uk
+- Oliver Shotton os450@exeter.ac.uk
+- Will Turner wtt201@exeter.ac.uk
