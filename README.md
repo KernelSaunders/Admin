@@ -18,9 +18,9 @@ Products can come from every corner of world. Consumers may often be unaware tru
 ## Scrum link
 [here](https://kernel-saunders.atlassian.net/jira/software/projects/SCRUM/boards/1)
 
-# Backend
+## Backend
 
-## Installation
+### Installation
 
 1. Create a virtual environment:
    ```bash
@@ -51,7 +51,7 @@ Products can come from every corner of world. Consumers may often be unaware tru
    ```
     An example is in `.env.example`
    
-## Running the API
+### Running the API
 
 Start the FastAPI server:
 
@@ -64,16 +64,9 @@ Interactive API docs:
 - Swagger UI: http://localhost:8000/docs
 - ReDoc: http://localhost:8000/redoc
 
-# Frontend
-npm run dev
+## Frontend
 
-Next.js + React + Tailwind components
-
-Could be worth using Shadcn as it has very good customizeability.
-
-# Frontend
-
-## Installation
+### Installation
 
 1. Install dependencies:
    ```bash
@@ -83,7 +76,7 @@ Could be worth using Shadcn as it has very good customizeability.
 
 3. Create a `.env` file based of `.env.example`
 
-## Running the local site
+### Running the local site
 
 Start the dev server:
 
