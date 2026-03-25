@@ -90,7 +90,7 @@ The site will be available at http://localhost:3000
 
 MIT License
 
-Copyright (c) <YEAR> <COPYRIGHT HOLDER>
+Copyright (c) 2026 Kernel Saunders
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
